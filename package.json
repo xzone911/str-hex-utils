@@ -1,0 +1,36 @@
+{
+  "name": "str-hex-utils",
+  "version": "1.0.0",
+  "description": "A simple utility library for string manipulations including case transformations and hexadecimal conversions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "hex",
+    "text-to-hex",
+    "hex-to-text",
+    "case-conversion",
+    "uppercase",
+    "lowercase",
+    "number-to-hex",
+    "hex-to-number",
+    "string-manipulation",
+    "text-processing",
+    "utility",
+    "conversion",
+    "string-utils",
+    "hex-conversion"
+  ],
+  "author": "xzone911",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/*.js"
+    ]
+  }
+}
