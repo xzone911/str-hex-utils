@@ -28,6 +28,13 @@
   "devDependencies": {
     "jest": "^29.7.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xzone911/str-hex-utils"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "jest": {
     "testMatch": [
       "**/test/*.js"
