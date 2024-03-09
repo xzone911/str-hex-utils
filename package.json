@@ -1,6 +1,6 @@
 {
   "name": "str-hex-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility library for string manipulations including case transformations and hexadecimal conversions.",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "url": "https://github.com/xzone911/str-hex-utils"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "jest": {
     "testMatch": [
